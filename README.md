@@ -1,10 +1,19 @@
 Node.js Blog Engine
 ===================
 
-This is the source code for the Nettuts+ series on web development with Node.js.
+This is the source code for the Nettuts+ series on web development
+with Node.js.
 
-### v0.0
-This is the code for the first part of the series. This was essentially an introduction to Node and the code is a simple Hello World example.
+### part-01
+
+The code for the second episode in the series. In this episode a first
+route and view were added as well as some basic directory structure.
+
+### part-00
+
+This is the code for the first part of the series. This was
+essentially an introduction to Node and the code is a simple Hello
+World example.
 
 License
 =======
